@@ -22,7 +22,7 @@
     }
   ],
   "require": {
-    "php": "^8.0"
+    "php": ">=5.3.2"
   },
 	"autoload": {
     "files": ["sage-acf-gutenberg-blocks.php"]
