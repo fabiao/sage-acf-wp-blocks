@@ -11,10 +11,18 @@
     },
     {
       "name": "Nico Prat"
-		}
+	},
+    {
+      "name": "Gabriele Coquillard",
+      "email": "gabriele.coquillard@gmail.com"
+    }
+    {
+      "name": "Fabio Di Francesco",
+      "email": "fabio.difrancesco@gmail.com"
+    }
   ],
   "require": {
-    "php": ">=5.3.2"
+    "php": "^8.0"
   },
 	"autoload": {
     "files": ["sage-acf-gutenberg-blocks.php"]
